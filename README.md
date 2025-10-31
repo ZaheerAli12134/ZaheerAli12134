@@ -8,7 +8,7 @@ Hi I'm Zaheer Ali, currently a 2nd year Computer Science student at Queen Mary U
 
 ---
 
-## GitHub Stats & Language Allocation
+## GitHub Stats
 
 <div align="center">
 
