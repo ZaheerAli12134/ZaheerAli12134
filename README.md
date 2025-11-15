@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi I'm Zaheer Ali, currently a 2nd year Computer Science student at Queen Mary University of London. Just building what I like. This is my portfolio website --> [https://zaheermirmengalali.vercel.app/](https://zaheermirmengalali.vercel.app/)
+Hi I'm Zaheer Ali, currently a 2nd year Computer Science student at Queen Mary University of London. Just building what I like. This is my portfolio website --> [https://zaheermirmengalali.info](https://zaheermirmengalali.vercel.app/)
 
 ---
 
