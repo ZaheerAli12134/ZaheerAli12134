@@ -23,5 +23,5 @@ Hi I'm Zaheer Ali, currently a 2nd year Computer Science student at Queen Mary U
 </div>
 
 ## Connect With Me
-- **LinkedIn:** [https://www.linkedin.com/in/zaheer-ali-5a115228a/](https://www.linkedin.com/in/zaheer-ali-5a115228a/) add my language distribution to this too
+- **LinkedIn:** [https://www.linkedin.com/in/zaheer-ali-5a115228a/](https://www.linkedin.com/in/zaheer-ali-5a115228a/) 
 
